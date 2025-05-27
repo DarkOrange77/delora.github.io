@@ -1,10 +1,2 @@
-title: Delora's Portfolio
-description: My personal website
-remote_theme: pages-themes/minimal@v0.2.0
-
-plugins:
-  - jekyll-remote-theme
-
-  exclude:
-  - index.html
-
+title: delora.github.io
+theme: null
